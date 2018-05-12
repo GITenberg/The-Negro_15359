@@ -1,0 +1,34 @@
+_repo: The-Negro_15359
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Du Bois, W. E. B. (William Edward Burghardt)
+    aliases:
+    - DuBois, W. E. Burghardt
+    - DuBois, W. E. B. (William Edward Burghardt)
+    - Bois, W. E. B. Du
+    birthdate: 1868
+    deathdate: 1963
+    gutenberg_agent_id: '226'
+    url: http://www.gutenberg.org/2009/agents/226
+    wikipedia: http://en.wikipedia.org/wiki/W._E._B._DuBois
+description: ''
+gutenberg_bookshelf: African American Writers
+gutenberg_issued: '2005-03-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15359'
+  lccn: '15012642'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Black race'
+- !lcsh 'Africa -- History'
+- !lcc 'HT'
+title: The Negro
+url: http://www.gutenberg.org/ebooks/15359
